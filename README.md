@@ -1,5 +1,7 @@
 # Task-1-Data-Cleaning-and-Preprocessing
-Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).  Tools: Excel   Deliverables: Cleaned dataset + short summary of changes
+Objective: Clean and prepare a raw dataset (with nulls, duplicates, inconsistent formats).  
+Tools: Excel/Python(Pandas)  
+Deliverables: Cleaned dataset + short summary of changes
 
  Hints / Mini Guide:
  Identify and handle missing values using .isnull() in Python or filters in Excel.
